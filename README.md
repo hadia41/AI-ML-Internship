@@ -2,7 +2,7 @@
 #Task 1: Exploring and Visualizing a dataset
 **Objective:**
 Learn how to load, inspect, and visualize a dataset to understand data trends and distributions.
-**Dataset:*
+**Dataset:**
 Iris Dataset
 
 Here is the 1st task of AI/ML internship in which i learn how to load and inspect using pandas library.
