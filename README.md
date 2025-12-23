@@ -4,14 +4,14 @@
 Learn how to load, inspect, and visualize a dataset to understand data trends and distributions.
 **Dataset:**
 Iris Dataset
-
 Here is the 1st task of AI/ML internship in which i learn how to load and inspect using pandas library.
 it also include descriptive statictics and data exploration using .info() and .describe() method
 i learn in my first task how to visualize dataset by creating:
 scatter plot(to show relation ship between features), 
 histogram(to show value distribution),
-box plot(to identify outliers) through matplotlip and seaborn library.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+box plot(to identify outliers) through matplotlip and seaborn library
+
+                      
 #Task 2: Predict Future Stock Prices (Short-Term)
 **Objective:**
 Use historical stock data to predict the next day's closing price.
@@ -24,7 +24,9 @@ Skills:
 ● Regression modeling
 ● Data fetching using APIs (yfinance)
 ● Plotting predictions vs real data
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #Task 3: Heart Disease Prediction
 
 **Objective:**
